@@ -5,4 +5,4 @@ For development run the following
 
 then
 
-`npm run start` : to spin up dev node server with nodemon
+`npm run start` : to spin up dev node server with nodemon 😇
